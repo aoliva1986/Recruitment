@@ -1,6 +1,0 @@
-@Recruitment_HostAddress = http://localhost:5265
-
-GET {{Recruitment_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
