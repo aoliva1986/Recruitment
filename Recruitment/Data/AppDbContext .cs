@@ -15,5 +15,13 @@ namespace Recruitment.Data
         public DbSet<Selection_Pipeline> Selection_Pipeline { get; set; }
         public DbSet<Questionnaire> Questionnaire { get; set; }
 
+        public DbSet<Job_Position> Job_Position { get; set; }
+        public DbSet<Candidate> Candidate { get; set; }
+        public DbSet<Documents> Documents { get; set; }
+        public DbSet<Move> Move { get; set; }
+        public DbSet<Pipeline_Stage> Pipeline_Stage { get; set; }
+
+
+
     }
 }

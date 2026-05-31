@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|c:\\users\\aoliva\\source\\repos\\recruitment\\recruitment\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|solutionrelative:recruitment\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|c:\\users\\aoliva\\source\\repos\\recruitment\\recruitment\\controllers\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|solutionrelative:recruitment\\controllers\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|c:\\users\\aoliva\\source\\repos\\recruitment\\recruitment\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|solutionrelative:recruitment\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|c:\\users\\aoliva\\source\\repos\\recruitment\\recruitment\\dtos\\movedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|solutionrelative:recruitment\\dtos\\movedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|c:\\users\\aoliva\\source\\repos\\recruitment\\recruitment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA798DBD-0137-4071-A8FA-509BEEA50E9B}|Recruitment\\Recruitment.csproj|solutionrelative:recruitment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CompanyController.cs",
-              "DocumentMoniker": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\Controllers\\CompanyController.cs",
-              "RelativeDocumentMoniker": "Recruitment\\Controllers\\CompanyController.cs",
-              "ToolTip": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\Controllers\\CompanyController.cs",
-              "RelativeToolTip": "Recruitment\\Controllers\\CompanyController.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAqwIwAAABBAAAAAAAAAA==",
+              "Title": "MoveController.cs",
+              "DocumentMoniker": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\Controllers\\MoveController.cs",
+              "RelativeDocumentMoniker": "Recruitment\\Controllers\\MoveController.cs",
+              "ToolTip": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\Controllers\\MoveController.cs",
+              "RelativeToolTip": "Recruitment\\Controllers\\MoveController.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T03:00:30.963Z",
+              "WhenOpened": "2026-05-30T14:35:31.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\Models\\Move.cs",
+              "RelativeDocumentMoniker": "Recruitment\\Models\\Move.cs",
+              "ToolTip": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\Models\\Move.cs",
+              "RelativeToolTip": "Recruitment\\Models\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T14:35:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveDto.cs",
+              "DocumentMoniker": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\DTOs\\MoveDto.cs",
+              "RelativeDocumentMoniker": "Recruitment\\DTOs\\MoveDto.cs",
+              "ToolTip": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\DTOs\\MoveDto.cs",
+              "RelativeToolTip": "Recruitment\\DTOs\\MoveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T14:35:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\appsettings.json",
+              "RelativeDocumentMoniker": "Recruitment\\appsettings.json",
+              "ToolTip": "C:\\Users\\aoliva\\source\\repos\\Recruitment\\Recruitment\\appsettings.json",
+              "RelativeToolTip": "Recruitment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-30T14:34:21.678Z",
               "EditorCaption": ""
             }
           ]

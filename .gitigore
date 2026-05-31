@@ -1,14 +1,34 @@
-# Ignorar carpetas de compilación
+# ==========================================
+# Tu configuración actual (¡Está perfecta!)
+# ==========================================
 bin/
 obj/
-
-# Ignorar configuraciones locales de Visual Studio
 .vs/
 *.user
-
-# Ignorar archivos de base de datos locales
 *.mdf
 *.ldf
-
-# Ignorar paquetes de NuGet (se restauran solos)
 packages/
+
+# ==========================================
+# Lo que te hace falta agregar:
+# ==========================================
+
+# Archivos de caché y resultados de pruebas de Visual Studio
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
+
+# Carpetas de herramientas y publicación de .NET Core / .NET 8
+.vschanges/
+publish/
+devspaces/
+
+# Archivos secretos y configuraciones locales sensibles
+# (No querrás subir contraseñas o cadenas de conexión locales al repo)
+appsettings.Development.json
+*.secrets.json
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+.DS_Store

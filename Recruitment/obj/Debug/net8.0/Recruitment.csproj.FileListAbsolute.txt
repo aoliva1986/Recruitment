@@ -277,3 +277,4 @@ C:\Users\aoliva\source\repos\Recruitment\Recruitment\obj\Debug\net8.0\refint\Rec
 C:\Users\aoliva\source\repos\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.pdb
 C:\Users\aoliva\source\repos\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.genruntimeconfig.cache
 C:\Users\aoliva\source\repos\Recruitment\Recruitment\obj\Debug\net8.0\ref\Recruitment.dll
+C:\Users\aoliva\source\repos\Recruitment\Recruitment\bin\Debug\net8.0\Recruitment.staticwebassets.runtime.json
